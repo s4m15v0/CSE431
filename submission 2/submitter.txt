@@ -1,0 +1,12 @@
+Course: CSE431 (Natural Language Processing) 
+
+Group No: 9 
+
+Group members: 
+
+1.S. M. Bayazid Hossain -  16101072 
+2.Salman Mostafiz Chowdhury -  17101149 
+3.Ali Ahammed Rohid -  17101361 
+4.Md. Shamiul Islam - 17301108
+5.Md. Nazmur Sakib - 17301124
+6.Md. Sadiqul Islam Sakif -  17301137 
